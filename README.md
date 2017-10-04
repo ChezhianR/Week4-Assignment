@@ -6,7 +6,7 @@ This repository contains:
 1) `README.md` : the file you are currently reading.
 2) `run_analysis.R` :a script for performing the analysis, and 
 3) `CodeBook.md` : a code book that describes the variables, the data, and any transformations or work that has been performed to clean up the data called . 
-4) `tidyData.csv` : a tidy data set as described below, 
+4) `tidyData.txt` : a tidy data set as described below, 
 
 
 ## Summary
